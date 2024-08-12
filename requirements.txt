@@ -15,3 +15,4 @@ aiodns
 pyyaml
 wrapt_timeout_decorator
 needlepy
+aiohttp>=3.10.2 # not directly required, pinned by Snyk to avoid a vulnerability
